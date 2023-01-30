@@ -17,5 +17,5 @@ To operate the circuit, the file provided should be opened using Logisim, and th
 - NOR
 - NOT B
 
-PS: The CPU is operated manually, as there is no language in which to program this mircroprocessor
+PS: The CPU is operated manually, as there is no language in which to program this microprocessor
 
